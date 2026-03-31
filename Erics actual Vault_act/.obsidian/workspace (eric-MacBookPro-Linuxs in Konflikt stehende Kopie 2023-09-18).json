@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5507260201729d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3440c758ef12322b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Lit/Hört auf zu Coachen - Svenja Hofert.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "758a196dceb820e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Die Entwicklungsstufen des Ich-Bewusstseins nach Loevinger.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d514e9ac4440a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/Familie/Opa Sommer 23 - Optionen - Research.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90fb1be83e0ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf04b129fa2d4f0",
+        "type": "tabs",
+        "dimension": 63.494539781591264,
+        "children": [
+          {
+            "id": "166c3568e51ddbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "287bcc477be46699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "transfer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b49f1830dbd671b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "30f9c80ba645bef8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "538f77fd61e7c5f4",
+        "type": "tabs",
+        "dimension": 36.505460218408736,
+        "children": [
+          {
+            "id": "5d5eeb80e4fb8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "280abf14e8be42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a25c18069b15a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d56ae4aaa02043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Projects/Familie/Opa Sommer 23 - Optionen - Research.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e5804cb011b00bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Projects/Familie/Opa Sommer 23 - Optionen - Research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "361417a293abcf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff6bb828fcac3dad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "627aba0406666003",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "0b43d0c75000dbd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Projects/Familie/Opa Sommer 23 - Optionen - Research.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d7c824336142a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008fb42793ec19fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01 Projects/Familie/Opa Sommer 23 - Optionen - Research.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4803616263547505,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e7e7358a64175807",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Neuen Canvas erstellen": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9d514e9ac4440a06",
+  "lastOpenFiles": [
+    "03 Ressources/Lit/Hört auf zu Coachen - Svenja Hofert.md",
+    "03 Ressources/Die Entwicklungsstufen des Ich-Bewusstseins nach Loevinger.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-09-14.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-09-18.md",
+    "02 Areas/Beruf und Finanzen/OrientierungSinn/Blog/Artikel/Ängste überwinden.md",
+    "03 Ressources/Lit/Hört auf zu Coachen - Svenja Höfert.md",
+    "Hört auf zu Coachen - Svenja Höfert.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-09-17.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-09-16.md",
+    "04 Archive/01 Projects/IT/Macbook auf Ubuntu umstellen.md",
+    "04 Archive/01 Projects/IT",
+    "01 Projects/Familie/Opa Sommer 23 - Optionen - Research.md",
+    "04 Archive/01 Projects/Familie/Arbeitszimmer umbauen.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-09-15.md",
+    "00 MAPLE/03 Review/Perioden/02 Weekly/2023-W37.md",
+    "01 Projects/BTB-Lernen/MOC BTB_Psychologischer-Berater.md",
+    "01 Projects/TÜV/SummerSchool 2024/Ressources/Einladungstext SummerSchool 2023 1.md",
+    "01 Projects/TÜV/SummerSchool 2024/SummerSchool 2024 Projekt.md",
+    "01 Projects/TÜV/Summer School 23/Hub Konzept Summerschool 2023.md",
+    "01 Projects/TÜV/SummerSchool 2024/Ressources",
+    "01 Projects/TÜV/Summer School 23/Ressources/Einladungstext SummerSchool 2023.md",
+    "01 Projects/TÜV/SummerSchool 2024",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/Termine/2023-09-13 JF Ghz Minutes.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-09-13.md",
+    "01 Projects/BTB-Lernen/Coach/Coachingpartner finden.md",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/JF Gerhartz Überblick.md",
+    "01 Projects/BTB-Lernen/Coach/Lernnotizen/btb1323 Eskal.md",
+    "01 Projects/BTB-Lernen/Coach/Lernnotizen/btb1353 - Work-Life-Balance.md",
+    "01 Projects/BTB-Lernen/Coach/Lernnotizen/Grundlagen der Kommunikation.md",
+    "98 Ressourcen/Attachments/image-38-x96-y309.png",
+    "98 Ressourcen/Attachments/image-25-x183-y411.png",
+    "98 Ressourcen/Attachments/image-24-x155-y254.png",
+    "98 Ressourcen/Attachments/image-24-x188-y596.png",
+    "98 Ressourcen/Attachments/image-23-x125-y431.png",
+    "98 Ressourcen/Attachments/image-22-x134-y136.png",
+    "98 Ressourcen/Attachments/image-22-x189-y535.png",
+    "98 Ressourcen/Attachments/image-16-x87-y152.png",
+    "98 Ressourcen/Attachments/image-11-x75-y528.png",
+    "98 Ressourcen/Attachments/image-12-x119-y443.png",
+    "00 MAPLE/03 📅-Review/Perioden/03 Monthly",
+    "00 MAPLE/03 📅-Review/Perioden",
+    "00 MAPLE/03 📅-Review",
+    "ttt",
+    "Neuer Ordner",
+    "04 Archive/01 Projects/Familie",
+    "03 Ressourcen",
+    "Ideen Methoden MAPLE.canvas",
+    "01 Projects/TÜV/Workshop Leiko/Ressourcen/Methoden WS LeiKo.canvas",
+    "01 Projects/Para-Methode anlegen/Ressourcen/MAPLE System.canvas",
+    "01 Projects/Para-Methode anlegen/Ressourcen/P.A.R.A-Method.canvas",
+    "01 Projects/TÜV/Konzept Akademie/Maßnahmenkapitel TÜV KONZEPT.canvas",
+    "01 Projects/TÜV/Konzept Akademie/Akademie Konzept Canvas.canvas"
+  ]
+}

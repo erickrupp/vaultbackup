@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.hasLink(this.file)
+    - file.folder != "99 Templates"
+views:
+  - type: table
+    name: Tabelle

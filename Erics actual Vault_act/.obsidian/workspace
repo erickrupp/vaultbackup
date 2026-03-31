@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e626f67b194b1249",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Themen Blog TÜV.md"
+          }
+        }
+      },
+      {
+        "id": "a85fa71a856564a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "link zum tüv blog.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a87fdbba1cbb996d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000_Home_Dashboard.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90fb1be83e0ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf04b129fa2d4f0",
+        "type": "tabs",
+        "dimension": 63.494539781591264,
+        "children": [
+          {
+            "id": "166c3568e51ddbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "287bcc477be46699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tüv",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b49f1830dbd671b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "538f77fd61e7c5f4",
+        "type": "tabs",
+        "dimension": 36.505460218408736,
+        "children": [
+          {
+            "id": "5d5eeb80e4fb8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "280abf14e8be42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a25c18069b15a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d56ae4aaa02043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "link zum tüv blog.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e5804cb011b00bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "link zum tüv blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "361417a293abcf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff6bb828fcac3dad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d7c824336142a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008fb42793ec19fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "link zum tüv blog.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4803616263547505,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e7e7358a64175807",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 144.5
+  },
+  "active": "a85fa71a856564a5",
+  "lastOpenFiles": [
+    "000_Home_Dashboard.md",
+    "link zum tüv blog.md",
+    "Themen TÜV-Blog.md",
+    "Themen Blog TÜV.md",
+    "Templates/Normal Note Template.md",
+    "Templates/Lit Note Template.md",
+    "Wie verfassen ich einen Blogpost.md",
+    "Second Brain/AMDP - V Befürchtungen und Zwänge.md",
+    "Second Brain/AMDP - IX Störungen der Affektivität.md",
+    "Second Brain/AMDP - IV Formale Denkstörungen.md"
+  ]
+}

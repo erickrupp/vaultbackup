@@ -1,0 +1,13 @@
+filters:
+  and:
+    - this.file.links.contains(file)
+    - file.name != "Backlinks.base"
+    - file.name != "Outlinks.base"
+    - '!file.inFolder("00 Overhead, MOCs/categories")'
+    - '!file.inFolder("98 Ressourcen/Attachments")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type

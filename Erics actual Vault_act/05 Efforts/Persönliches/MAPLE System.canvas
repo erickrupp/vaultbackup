@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[💡 MAPLE]] ","id":"fbb150bb3a217e98","x":-140,"y":-235,"width":250,"height":60},
+		{"type":"text","text":"[[MAPLE - Nordstern - Concept]]","id":"1c7286b6891c5797","x":-60,"y":-116,"width":250,"height":60},
+		{"type":"text","text":"[[MAPLE - Goals - Concept]]","id":"8e965b02bcf69650","x":-51,"y":5,"width":250,"height":60},
+		{"type":"text","text":"[[MAPLE - Projects - Concept]]","id":"27bf2c27f32adf60","x":-87,"y":79,"width":250,"height":60},
+		{"type":"text","text":"[[MAPLE - Action Items - Concept]]","id":"8e2eef6cabaf4e1e","x":-64,"y":178,"width":250,"height":60},
+		{"type":"text","text":"[[MAPLE - Review - Concept]]","id":"bf9e851c1eb613c2","x":1,"y":290,"width":250,"height":60},
+		{"type":"text","text":"[[MAPLE - Areas - Concept]]","id":"6ccf2e70675d0bf2","x":-390,"y":79,"width":250,"height":60}
+	],
+	"edges":[]
+}

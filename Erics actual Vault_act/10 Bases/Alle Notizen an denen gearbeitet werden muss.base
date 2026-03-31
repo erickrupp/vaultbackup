@@ -1,0 +1,52 @@
+filters:
+  or:
+    - status == "new"
+    - status == "ongoing"
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - type
+  - type: table
+    name: Texte
+    filters:
+      or:
+        - type.contains(link("blogpost"))
+        - type.contains(link("webtext"))
+        - type.contains(link("geschichte"))
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - type
+  - type: table
+    name: Projekte
+    filters:
+      and:
+        - type.contains(link("project"))
+        - '!file.inFolder("99 Templates")'
+    order:
+      - file.name
+      - status
+      - file.folder
+  - type: table
+    name: evergreens
+    filters:
+      and:
+        - type.contains(link("evergreen"))
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - file.tags
+      - project
+      - file.folder

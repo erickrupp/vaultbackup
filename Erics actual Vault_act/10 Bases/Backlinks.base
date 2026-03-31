@@ -1,0 +1,57 @@
+filters:
+  and:
+    - file.hasLink(this.file)
+    - file.name != "Backlinks.base"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type
+      - Anwendungsfall
+    sort:
+      - property: type
+        direction: ASC
+  - type: table
+    name: ohne 'text'
+    filters:
+      and:
+        - '!type.contains(link("text"))'
+    order:
+      - file.name
+      - type
+    sort:
+      - property: type
+        direction: ASC
+  - type: table
+    name: verlinkte Projekte
+    filters:
+      and:
+        - type.contains(link("project"))
+    order:
+      - file.name
+      - date
+      - status
+  - type: table
+    name: Ohne Projekte
+    filters:
+      and:
+        - '!type.contains(link("project"))'
+    order:
+      - file.name
+      - date
+      - status
+  - type: table
+    name: Journalfactory
+    filters:
+      or:
+        - "!tool.isEmpty()"
+        - "!Anwendungsfall.isEmpty()"
+    order:
+      - file.name
+      - type
+      - tool
+      - Anwendungsfall
+    sort:
+      - property: type
+        direction: ASC

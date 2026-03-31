@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00 MAPLE\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#pkm",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#MOC  ",
+      "color": {
+        "a": 1,
+        "rgb": 660644
+      }
+    },
+    {
+      "query": "tag:#literatur  ",
+      "color": {
+        "a": 1,
+        "rgb": 15012328
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.999781955330308,
+  "lineSizeMultiplier": 1.25170724159274,
+  "collapse-forces": false,
+  "centerStrength": 0.520889209820508,
+  "repelStrength": 10.7963688879719,
+  "linkStrength": 0.780740664328451,
+  "linkDistance": 75,
+  "scale": 0.17075030664742138,
+  "close": true
+}

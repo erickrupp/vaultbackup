@@ -1,0 +1,1308 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 1,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "quote": {
+      "quote": {
+        "frontMatter": {
+          "count": 13,
+          "lastUpdated": 1684840241421
+        }
+      }
+    },
+    "evergreen": {
+      "evergreen": {
+        "frontMatter": {
+          "count": 44,
+          "lastUpdated": 1684999927497
+        }
+      }
+    },
+    "ongoing": {
+      "ongoing": {
+        "frontMatter": {
+          "count": 154,
+          "lastUpdated": 1685086279535
+        }
+      }
+    },
+    "published": {
+      "published": {
+        "frontMatter": {
+          "count": 543,
+          "lastUpdated": 1685522447027
+        }
+      }
+    },
+    "coaching": {
+      "coaching": {
+        "frontMatter": {
+          "count": 17,
+          "lastUpdated": 1683028840171
+        }
+      }
+    },
+    "btb/pb": {
+      "btb/pb": {
+        "frontMatter": {
+          "count": 69,
+          "lastUpdated": 1685086895237
+        }
+      }
+    },
+    "führung": {
+      "führung": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1683029745724
+        }
+      }
+    },
+    "concept": {
+      "concept": {
+        "frontMatter": {
+          "count": 109,
+          "lastUpdated": 1685086884476
+        }
+      }
+    },
+    "Literaturnotiz": {
+      "Literaturnotiz": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1683031881499
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683031886247
+        }
+      }
+    },
+    "SummerSchool": {
+      "SummerSchool": {
+        "currentFile": {
+          "count": 12,
+          "lastUpdated": 1685086010443
+        }
+      }
+    },
+    "Ruhrfibre": {
+      "Ruhrfibre": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684324594784
+        }
+      }
+    },
+    "Umkehrung des Gesetzes der Einfachheit": {
+      "Umkehrung des Gesetzes der Einfachheit": {
+        "internalLink": {
+          "count": 8,
+          "lastUpdated": 1685027625034
+        }
+      }
+    },
+    "Allgemeine Depressionsskala (ADS)": {
+      "Allgemeine Depressionsskala (ADS)": {
+        "internalLink": {
+          "count": 8,
+          "lastUpdated": 1683033972675
+        }
+      }
+    },
+    "Problematische Glaubenssätze und problematisches Verhalten war uns einst dienlich": {
+      "Problematische Glaubenssätze und problematisches Verhalten war uns einst dienlich": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683035817508
+        }
+      }
+    },
+    "Arbeitsumfeld": {
+      "Arbeitsumfeld": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683189128556
+        }
+      }
+    },
+    "Verbalisieren": {
+      "Verbalisieren": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683194182826
+        }
+      }
+    },
+    "wsleiko": {
+      "wsleiko": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1683621044450
+        }
+      }
+    },
+    "Sein": {
+      "Sein": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683622131860
+        }
+      }
+    },
+    "MAPLE": {
+      "MAPLE": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685086591777
+        }
+      }
+    },
+    "psychotherapie": {
+      "psychotherapie": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1684843833630
+        }
+      }
+    },
+    "Arbeitszimmer umbauen": {
+      "Arbeitszimmer umbauen": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1684838088224
+        }
+      }
+    },
+    "Vorbereitung Kommunion Luis": {
+      "Vorbereitung Kommunion Luis": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682955287521
+        }
+      }
+    },
+    "Höflichkeit": {
+      "Höflichkeit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683024523603
+        }
+      }
+    },
+    "done": {
+      "done": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683025108464
+        }
+      }
+    },
+    "selbstmanagement": {
+      "selbstmanagement": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1684851571208
+        }
+      }
+    },
+    "Intervisionsgruppen": {
+      "Intervisionsgruppen": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683029255236
+        }
+      }
+    },
+    "Online-Sem": {
+      "Online-Sem": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683029242415
+        }
+      }
+    },
+    "haltung": {
+      "haltung": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683029737134
+        }
+      }
+    },
+    "Feedback": {
+      "Feedback": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1683031534933
+        }
+      }
+    },
+    "Erfolgs- Misserfolgsfaktoren reflektieren": {
+      "Erfolgs- Misserfolgsfaktoren reflektieren": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683030724397
+        }
+      }
+    },
+    "ungewollt": {
+      "ungewollt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683030775714
+        }
+      }
+    },
+    "Feedbackkultur": {
+      "Feedbackkultur": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683030941548
+        }
+      }
+    },
+    "Kollegiale Beratung": {
+      "Kollegiale Beratung": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683031443427
+        }
+      }
+    },
+    "Wichtigkeit von Feedback": {
+      "Wichtigkeit von Feedback": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683031458664
+        }
+      }
+    },
+    "methode": {
+      "methode": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1683033945886
+        }
+      }
+    },
+    "Supervisionen": {
+      "Supervisionen": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683031911010
+        }
+      }
+    },
+    "lernen": {
+      "lernen": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1684832389131
+        }
+      }
+    },
+    "entwicklung": {
+      "entwicklung": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683032929306
+        }
+      }
+    },
+    "Modell der Kompetenzentwicklung nach Oerter und Montada": {
+      "Modell der Kompetenzentwicklung nach Oerter und Montada": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683032940422
+        }
+      }
+    },
+    "Kompetenzentwicklung": {
+      "Kompetenzentwicklung": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683033328374
+        }
+      }
+    },
+    "inkompetent": {
+      "inkompetent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683033251626
+        }
+      }
+    },
+    "Kindle-Sync-Template": {
+      "Kindle-Sync-Template": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683035993923
+        }
+      }
+    },
+    "Belohnungsaufschub": {
+      "Belohnungsaufschub": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683036005348
+        }
+      }
+    },
+    "new": {
+      "new": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683049045937
+        }
+      }
+    },
+    "2023-05-03": {
+      "2023-05-03": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683101363079
+        }
+      }
+    },
+    "adminSuSchool": {
+      "adminSuSchool": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683187473654
+        }
+      }
+    },
+    "Fortbildung": {
+      "Fortbildung": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683189262572
+        }
+      }
+    },
+    "Kommunikation": {
+      "Kommunikation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683190163129
+        }
+      }
+    },
+    "Selbstmanagement": {
+      "Selbstmanagement": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1685029248136
+        }
+      }
+    },
+    "Einleitung": {
+      "Einleitung": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683191804277
+        }
+      }
+    },
+    "Aktives Zuhören": {
+      "Aktives Zuhören": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683621470615
+        }
+      }
+    },
+    "Vorbereitung SummerSchool TNAkademie": {
+      "Vorbereitung SummerSchool TNAkademie": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683621685221
+        }
+      }
+    },
+    "Machen Sie doch, was Sie wollen! - Storch, Maja": {
+      "Machen Sie doch, was Sie wollen! - Storch, Maja": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684234361118
+        }
+      }
+    },
+    "Everything that is already in the world when you're born is just normal": {
+      "Everything that is already in the world when you're born is just normal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683622223868
+        }
+      }
+    },
+    "nehmen": {
+      "nehmen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683622482437
+        }
+      }
+    },
+    "aufgreifen     bei": {
+      "aufgreifen     bei": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683627731512
+        }
+      }
+    },
+    "Führungsrolle Kleine": {
+      "Führungsrolle Kleine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683627860285
+        }
+      }
+    },
+    "Führungsrolle KleKleine": {
+      "Führungsrolle KleKleine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683627866429
+        }
+      }
+    },
+    "2023-05-16": {
+      "2023-05-16": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684144128772
+        }
+      }
+    },
+    "weiterbildung/BTB/Coach": {
+      "weiterbildung/BTB/Coach": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684145702367
+        }
+      }
+    },
+    "btb1358": {
+      "02-04 1358 Selbstentwicklung als Berater steuern, Teil I": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684146733024
+        }
+      }
+    },
+    "Eustress": {
+      "Eustress": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684149038994
+        }
+      }
+    },
+    "Distress": {
+      "Distress": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684839116007
+        }
+      }
+    },
+    "Lösungsfokussierende Arbeit nach de Shazer und Kim Berg": {
+      "Lösungsfokussierende Arbeit nach de Shazer und Kim Berg": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684151475198
+        }
+      }
+    },
+    "Leseliste": {
+      "Leseliste": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684236751557
+        }
+      }
+    },
+    "2023-05-17": {
+      "2023-05-17": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684324564296
+        }
+      }
+    },
+    "Vodafone": {
+      "Vodafone": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684324671006
+        }
+      }
+    },
+    "Wunderbare Erfahrung. Energie ist nur eine Frequenz im Muster. Alles ist gleich. Dass wir sie wahrnehmen heißt nicht, dass es sie gibt. Wenn ich Energie gesammelt habe, dann nur, weil woanders jemand diese Energie nicht sammeln durfte": {
+      "Wunderbare Erfahrung. Energie ist nur eine Frequenz im Muster. Alles ist gleich. Dass wir sie wahrnehmen heißt nicht, dass es sie gibt. Wenn ich Energie gesammelt habe, dann nur, weil woanders jemand diese Energie nicht sammeln durfte": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684495387488
+        }
+      }
+    },
+    "hold": {
+      "hold": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1685533782595
+        }
+      }
+    },
+    "Einladungstext SummerSchool 2023": {
+      "Einladungstext SummerSchool 2023": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684496126790
+        }
+      }
+    },
+    "Curriculum": {
+      "Curriculum": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684496162870
+        }
+      }
+    },
+    "Paarseminar Michaela und ich über Pfingsten": {
+      "Paarseminar Michaela und ich über Pfingsten": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1685086381857
+        }
+      }
+    },
+    "studienbrief": {
+      "studienbrief": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684832376151
+        }
+      }
+    },
+    "btb1353": {
+      "btb1353": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1685029259664
+        }
+      }
+    },
+    "Systemische Fragen": {
+      "Systemische Fragen": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684836706432
+        }
+      }
+    },
+    "Work-Life-Balance": {
+      "Work-Life-Balance": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1684842951650
+        }
+      }
+    },
+    "Katalog": {
+      "Katalog": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684835966117
+        }
+      }
+    },
+    "Coaching-Ansätze mit Design Thinking": {
+      "Coaching-Ansätze mit Design Thinking": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684836728059
+        }
+      }
+    },
+    "Stress": {
+      "Stress": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684837694992
+        }
+      }
+    },
+    "Umweltstressoren": {
+      "Umweltstressoren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684837947130
+        }
+      }
+    },
+    "Glaubensätze": {
+      "Glaubensätze": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684838361320
+        }
+      }
+    },
+    "Überzeugungen": {
+      "Überzeugungen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684838364420
+        }
+      }
+    },
+    "Literaturnotiz Zotero": {
+      "Literaturnotiz Zotero": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684838684141
+        }
+      }
+    },
+    "Stressoren": {
+      "Stressoren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684839387200
+        }
+      }
+    },
+    "vermeidbaren": {
+      "vermeidbaren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684839422770
+        }
+      }
+    },
+    "unvermeidbaren": {
+      "unvermeidbaren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684839428328
+        }
+      }
+    },
+    "NLP LEAVE": {
+      "NLP LEAVE": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684839471359
+        }
+      }
+    },
+    "Aufmerksamkeit": {
+      "Aufmerksamkeit": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684998734952
+        }
+      }
+    },
+    "Mindmapping": {
+      "Mindmapping": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684840341124
+        }
+      }
+    },
+    "Growth Mindset": {
+      "Growth Mindset": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1684842183575
+        }
+      }
+    },
+    "Psychische Krankheiten": {
+      "Psychische Krankheiten": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684846571480
+        }
+      }
+    },
+    "btb/hp": {
+      "btb/hp": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684843007375
+        }
+      }
+    },
+    "Notizstrategien": {
+      "Notizstrategien": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684843622840
+        }
+      }
+    },
+    "bewusstsein": {
+      "bewusstsein": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1684998336865
+        }
+      }
+    },
+    "aufmerksamkeit": {
+      "aufmerksamkeit": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1684996644575
+        }
+      }
+    },
+    "denken": {
+      "denken": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1684996641524
+        }
+      }
+    },
+    "verhalten": {
+      "verhalten": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1684843856565
+        }
+      }
+    },
+    "fühlen": {
+      "fühlen": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684843852606
+        }
+      }
+    },
+    "erschöpfung": {
+      "erschöpfung": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684844163850
+        }
+      }
+    },
+    "erschöpfungszustand": {
+      "erschöpfungszustand": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684844166328
+        }
+      }
+    },
+    "Müdigkeit und Erschöpfung": {
+      "Müdigkeit und Erschöpfung": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684844647778
+        }
+      }
+    },
+    "Leitsymptome": {
+      "Leitsymptome": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684844681227
+        }
+      }
+    },
+    "Ineffektivität": {
+      "Ineffektivität": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684844814160
+        }
+      }
+    },
+    "Burnout-Syndroms": {
+      "Burnout-Syndroms": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684846159948
+        }
+      }
+    },
+    "können”": {
+      "können”": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684845469716
+        }
+      }
+    },
+    "Faktoren": {
+      "Faktoren": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684845981504
+        }
+      }
+    },
+    "Menschen": {
+      "Menschen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846058917
+        }
+      }
+    },
+    "Erschöpfung": {
+      "Erschöpfung": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846237943
+        }
+      }
+    },
+    "Regeneration": {
+      "Regeneration": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846280849
+        }
+      }
+    },
+    "Entspannungsphasen": {
+      "Entspannungsphasen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846297080
+        }
+      }
+    },
+    "Genussmitteln”": {
+      "Genussmitteln”": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684846323268
+        }
+      }
+    },
+    "Beratungsgespräche": {
+      "Beratungsgespräche": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846436761
+        }
+      }
+    },
+    "gleichgültige": {
+      "gleichgültige": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846489506
+        }
+      }
+    },
+    "Behandlung”": {
+      "Behandlung”": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684846528031
+        }
+      }
+    },
+    "zeitmanagement": {
+      "zeitmanagement": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1685028699819
+        }
+      }
+    },
+    "produktivität": {
+      "produktivität": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1684851574741
+        }
+      }
+    },
+    "tüv": {
+      "tüv": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1684919182640
+        }
+      }
+    },
+    "Glaubenssätze": {
+      "Glaubenssätze": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1684999159609
+        }
+      }
+    },
+    "Regelkreis": {
+      "Regelkreis": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684998842158
+        }
+      }
+    },
+    "Zitat": {
+      "Zitat": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684998501096
+        }
+      }
+    },
+    "Fragebogen zum funktionalen Trinken (FFT)": {
+      "Fragebogen zum funktionalen Trinken (FFT)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684998546549
+        }
+      }
+    },
+    "Gedanken": {
+      "Gedanken": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684998661004
+        }
+      }
+    },
+    "Erfahrungswissen": {
+      "Erfahrungswissen": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684998684173
+        }
+      }
+    },
+    "Übereinstimmung": {
+      "Übereinstimmung": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1685001718274
+        }
+      }
+    },
+    "Smothermon": {
+      "Smothermon": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684998875179
+        }
+      }
+    },
+    "through": {
+      "through": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684998891467
+        }
+      }
+    },
+    "Enlightenment": {
+      "Enlightenment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684998894456
+        }
+      }
+    },
+    "Gesundheit": {
+      "Gesundheit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685000053923
+        }
+      }
+    },
+    "Funktionisweise": {
+      "Funktionisweise": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685000115963
+        }
+      }
+    },
+    "Denken, Aufmerksamkeit, Bewusstsein, Denken - Ein Regelkreis": {
+      "Denken, Aufmerksamkeit, Bewusstsein, Denken - Ein Regelkreis": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685000875307
+        }
+      }
+    },
+    "Konstruktivismus": {
+      "Konstruktivismus": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685001115111
+        }
+      }
+    },
+    "Eisenhower Matrix": {
+      "Eisenhower Matrix": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1685027729380
+        }
+      }
+    },
+    "Eat the Frog first": {
+      "Eat the Frog first": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1685028087804
+        }
+      }
+    },
+    "Rocks in a Jar": {
+      "Rocks in a Jar": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685027719768
+        }
+      }
+    },
+    "Zeitmanagement": {
+      "Zeitmanagement": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1685029250132
+        }
+      }
+    },
+    "Die Trainingseinladung im Rahmen des Trainingstransfers": {
+      "Die Trainingseinladung im Rahmen des Trainingstransfers": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685087620281
+        }
+      }
+    },
+    "Pomodoro Technik": {
+      "Pomodoro Technik": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685027822784
+        }
+      }
+    },
+    "30-2-1 Methode": {
+      "30-2-1 Methode": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685027836611
+        }
+      }
+    },
+    "Timeboxing": {
+      "Timeboxing": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685028615073
+        }
+      }
+    },
+    "GTD - Getting Things Done": {
+      "GTD - Getting Things Done": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685027899944
+        }
+      }
+    },
+    "Fokusarbeitszeit": {
+      "Fokusarbeitszeit": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685028609711
+        }
+      }
+    },
+    "Pareto-Methode - 80-20": {
+      "Pareto-Methode - 80-20": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685028678300
+        }
+      }
+    },
+    "Beschreibende, bewertende, erklärende Fragen": {
+      "Beschreibende, bewertende, erklärende Fragen": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685029127203
+        }
+      }
+    },
+    "Periodic Templates super angepasst": {
+      "Periodic Templates super angepasst": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1685085651665
+        }
+      }
+    },
+    "Termin": {
+      "Termin": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685086072324
+        }
+      }
+    },
+    "weekly": {
+      "weekly": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685086456410
+        }
+      }
+    },
+    "Klassenfahrt": {
+      "Klassenfahrt": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685086617239
+        }
+      }
+    },
+    "Kohärenzgefühl": {
+      "Kohärenzgefühl": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685087083157
+        }
+      }
+    },
+    "Kohärenzgefühl nach Aaron Antonosky": {
+      "Kohärenzgefühl nach Aaron Antonosky": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685087635164
+        }
+      }
+    },
+    "Spiegelneuronen": {
+      "Spiegelneuronen": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685087797126
+        }
+      }
+    },
+    "einnehmen": {
+      "einnehmen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685089188243
+        }
+      }
+    },
+    "Haltung zu den Dingen": {
+      "Haltung zu den Dingen": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685089316323
+        }
+      }
+    },
+    "sychrones vs. asynchones Lernen": {
+      "sychrones vs. asynchones Lernen": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685522494422
+        }
+      }
+    },
+    "School": {
+      "School": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685522498850
+        }
+      }
+    },
+    "Paul Watzlawick": {
+      "Paul Watzlawick": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1685522507536
+        }
+      }
+    }
+  }
+}

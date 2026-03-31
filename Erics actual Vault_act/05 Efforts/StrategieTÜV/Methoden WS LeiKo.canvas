@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"group","id":"0f690b368b64c6c7","x":-625,"y":-1460,"width":1365,"height":1140,"color":"1","label":"Viele Ideen"},
+		{"type":"group","id":"d7031adc9f14ae23","x":-625,"y":-200,"width":1365,"height":1060,"color":"3","label":"Bewertungen"},
+		{"id":"3db1ee745148f8b0","x":814,"y":-284,"width":400,"height":400,"type":"file","file":"03 Ressources/Brainwriting.md"},
+		{"type":"file","file":"03 Ressources/Kopfstand-Brainstorming.md","id":"0914aed1b713dea8","x":-140,"y":-1240,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/6-3-5-Methode.md","id":"1b10122272ba3e1e","x":320,"y":-1240,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/Stummer Dialog.md","id":"3dd0864eff5ae730","x":-140,"y":-800,"width":400,"height":400},
+		{"type":"text","text":"Bewertungen","id":"ee57339f9b700684","x":-605,"y":-180,"width":250,"height":60},
+		{"type":"file","file":"03 Ressources/Now-How-Wow Methode.md","id":"9a6c89c840cc7f5b","x":-605,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/6-Hüte-Methode.md","id":"2006e7494e6915bf","x":-150,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/Osbourne-Checkliste.md","id":"6b287b36a01a39c1","x":315,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/Walt-Disney-Methode.md","id":"a52b7e8ae0bf6e4c","x":115,"y":400,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/5x Warum-Methode.md","id":"9a65084a0d8a7eb5","x":-425,"y":400,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/Crazy 8.md","id":"7cb1c697bb473812","x":-605,"y":-1240,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/World Cafe.md","id":"f019b93b99a8eff3","x":-605,"y":-800,"width":400,"height":400},
+		{"type":"file","file":"03 Ressources/Schreibstaffel.md","id":"bf16db710c6d79fd","x":320,"y":-800,"width":400,"height":400},
+		{"type":"text","text":"Viele Ideen","id":"7e3d169d9eecdf83","x":-605,"y":-1440,"width":250,"height":60},
+		{"type":"file","file":"03 Ressources/Ideenkorb.md","id":"d3e7cfecd115cf30","x":800,"y":-1240,"width":400,"height":400},
+		{"id":"d810c756709db9ef","x":805,"y":-768,"width":400,"height":400,"type":"file","file":"03 Ressources/30-2-1 Methode.md"}
+	],
+	"edges":[
+		{"id":"ac91e2cb25e9a9b1","fromNode":"a52b7e8ae0bf6e4c","fromSide":"left","toNode":"2006e7494e6915bf","toSide":"bottom"}
+	]
+}

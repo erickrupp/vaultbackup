@@ -1,0 +1,38 @@
+filters:
+  and:
+    - list(type).contains(this)
+    - file.folder != "99 Templates"
+views:
+  - type: table
+    name: Evergreen
+    order:
+      - file.name
+      - file.tags
+      - type
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.tags: 147
+  - type: table
+    name: Project
+    order:
+      - file.name
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+  - type: table
+    name: Blogpost
+    order:
+      - file.name
+      - file.folder
+      - status
+    sort:
+      - property: status
+        direction: DESC
+  - type: table
+    name: text
+    order:
+      - file.name
+      - project

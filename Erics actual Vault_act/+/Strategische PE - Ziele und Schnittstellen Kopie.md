@@ -1,0 +1,95 @@
+- Strategische PE - Ziele und Schnittstellen
+	- Ziele
+		- Das beste Fit herstellen Aufgaben - Personen
+			- Kompetenzen der Stelle analysieren
+			- Genaue Jobmatrix erstellen
+		- Unterstützung FK
+			- Sparring
+			- Methodische Unterstützung
+			- Tools vorhalten
+			- Monitoring und Reviews anstossen und ggf Übernehmen
+		- Unterstützung MA
+			- Beratungsangebot Development
+				- Vorbereitung JOG/GROW
+				- Unterstützung bei Weiterbildungsfragen
+				- Die (potenziellen) Aufstiegschancen im Blick haben
+		- Unterstützung GF
+			- Die potenziellen Aufstiegschancen im Blick haben
+				- Potenzialträger nach Kompetenz listen
+				- Für sinnvolle Trades offen sein (intergroup)
+			- Mit der GF die HR-Strategie festlegen
+	- Vorhandene Tools und Projekte
+		- Jobprofile
+		- KODE / KODEx (im Konzern?)
+		- NEXT Nachfolgemanagement
+		- Talentmanagement TNG
+	- Tools
+		- Kommunikationstechniken
+		- Schulungskatalog
+		- Methodenkatalog organisiert nach Zielen
+			- Schulungen
+			- Labore
+			- Tandems
+			- Mentoring
+			- Prozessoptimierungen
+			- Führungsstil
+		- Eigenes Talentmanagement für Mitarbeitende
+			- Talentförderung
+			- Talentpools
+				- Potenzialträgerliste
+				- Talente, die jetzt schon weiterhelfen, aber an der Stelle nicht happy sind
+				- Regelmäßiger Austausch von Mitarbeitenden wo immer möglich
+			- Verzahnung mit anderen Bereichen der TNG
+		- Kompetenzbasierte Stellenbesetzung
+			- mj-map:///\EATP04FS\ekrupp$\Eigene%20Dateien\Eigene%20Maps\Prozess%20strategische%20PE%20beschreiben.mmap#oid={9B85BCB5-CB50-4C0E-9B1E-59525E95AC8B}
+			- Kompetenzbasierte Analyse Stelle
+			- Kompetenzbasierte Analyse Mensch
+	- Schnittstellen
+		- HR-Lead
+			- Strategie der TNG umsetzen
+				- zu TNG-HR und PE
+				- zu BU Leitung
+				- zu GF
+			- HR-Strategien der BU umsetzen
+				- zu BU Leitung
+				- zu GF
+				- zu BE-Leitung
+		- HR BP
+			- Beratung zu Veränderungen
+				- PE
+				- zu BE-Leitung
+				- zu PC-Leitung
+				- zu MA
+			- Durchsetzung der Strategie
+				- zu BE-Leitung
+				- zu PC-Leitung
+				- MA
+			- Erste Ansprechperson zu Fragen und Support in HR und Arbeitsrechtlichen Fragen
+				- zu BE-Leitung
+				- zu PC-Leitung
+		- Recruitment
+			- PE wegen Talentmanagement
+			- zu BE-L
+			- zu PCL
+			- zu MA
+		- MAA
+			- zu GF
+			- zu BE-L
+			- zu PCL
+			- zu MA
+	- Ideen
+		- Schulungen
+			- kompetenzorientierte Interviews
+			- Begleitung von FK hins. Kompetenzanalyse von Postitionen und Stellen
+			- Frageorientierte Begleitung
+		- Tools
+			- Psychologische Modelle und Tools
+			- Kompetenzbasierte Tools
+			- Frageorientierung
+		- Ansätze
+			- Temperamentorientierte Ansätze
+			- Motivorientierte Ansätze
+			- Psychologische Modelle nutzende Ansätze
+
+
+- Relations:

@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5507260201729d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34cc561c7bad11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 MAPLE/03 Review/Perioden/02 Weekly/2023-W43.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3440c758ef12322b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca54ec70233f4760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 MAPLE/02 Ziele/Durch die Mitarbeitenden Akademie TÜV NORD zu einer besseren Firma machen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1839fe5016189684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/Familie/Pflege Otto 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90fb1be83e0ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf04b129fa2d4f0",
+        "type": "tabs",
+        "dimension": 63.494539781591264,
+        "children": [
+          {
+            "id": "166c3568e51ddbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "287bcc477be46699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b49f1830dbd671b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa7757c82071692a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "538f77fd61e7c5f4",
+        "type": "tabs",
+        "dimension": 36.505460218408736,
+        "children": [
+          {
+            "id": "5d5eeb80e4fb8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "280abf14e8be42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a25c18069b15a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d56ae4aaa02043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-23.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e5804cb011b00bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "361417a293abcf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff6bb828fcac3dad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "95c9da1a173b2bc3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "819ee25eb57c0ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-23.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0d7c824336142a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008fb42793ec19fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-23.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4803616263547505,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e7e7358a64175807",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Neuen Canvas erstellen": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "3440c758ef12322b",
+  "lastOpenFiles": [
+    "03 Ressources/Lit/Schnelles Denken, Langsames Denken - Kahnemann, Daniel.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-23.md",
+    "01 Projects/Familie/Pflege Otto 2023.md",
+    "01 Projects/Familie/Wohnung für Opa.md",
+    "00 MAPLE/03 Review/Perioden/02 Weekly/2023-W43.md",
+    "00 MAPLE/02 Ziele/Durch die Mitarbeitenden Akademie TÜV NORD zu einer besseren Firma machen.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-22.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-21.md",
+    "00 MAPLE/03 Review/Perioden/01 Daily/2023-10-20.md",
+    "01 Projects/TÜV/Zielfindung/Entwicklung eines Zielfindungsprozesses im Vorfeld der TÜV internen Planung.md",
+    "01 Projects/TÜV/Zielfindung/Research - Zielprozess FK.md",
+    "01 Projects/TÜV/Konzept Akademie/TÜV-MK_22-Katalog.md",
+    "01 Projects/00 INBOX/Asynchroner Content - Erics Themen.md",
+    "01 Projects/00 INBOX/Vorbereitung SummerSchool Kroatien.md",
+    "01 Projects/Haus/Minimalismus Projekt für unser Haus - Overview.md",
+    "01 Projects/Haus/Frühjahrsputz.md",
+    "01 Projects/TÜV/Selbstmanagement Asynchron 23/Selbstmanagement Asynchron.md",
+    "01 Projects/BTB-Lernen/Lernroutine/Lernroutine gestalten und einhalten.md",
+    "01 Projects/BTB-Lernen/Coach/Coachingpartner finden.md",
+    "01 Projects/OrientierungSinn Webseite/Texte/Texte für die Webseite schreiben.md",
+    "01 Projects/TÜV/NC-Schreibwerkstätten/Schulung - Reaktion auf Befunde.md",
+    "01 Projects/BTB-Lernen/MOC BTB_Psychologischer-Berater.md",
+    "01 Projects/Familie/Fondssparen für Luis.md",
+    "01 Projects/Haus/Arbeitszimmer ausmisten und nur behalten, was benötigt wird.md",
+    "01 Projects/TÜV/Workshop Leiko/Vision und Mission der MAA.md",
+    "00 MAPLE/02 Ziele/Minimalismus - Ziel mit weniger befreit durchs Leben gehen.md",
+    "00 MAPLE/02 🎯-Ziele",
+    "01 Projects/Persönliches",
+    "01 Projects/TÜV/SummerSchool 2024/Planung",
+    "04 Archive/01 Projects/Summer School 23/03 Abschluss",
+    "04 Archive/01 Projects/Summer School 23/01 Planung SummerSchool",
+    "98 Ressourcen/Attachments/image-11-x75-y528.png",
+    "98 Ressourcen/Attachments/Ich Entwicklung Hofer_kom.pdf",
+    "98 Ressourcen/Attachments/Bildschirmfoto 2023-09-19 um 10.22.03.png",
+    "01 Projects/TÜV/Selbstmanagement Asynchron 23/Research",
+    "01 Projects/TÜV/Selbstmanagement Asynchron 23",
+    "04 Archive/01 Projects/IT",
+    "01 Projects/TÜV/SummerSchool 2024/Planung/Ressources",
+    "98 Ressourcen/Attachments/image-38-x96-y309.png",
+    "98 Ressourcen/Attachments/image-25-x183-y411.png",
+    "98 Ressourcen/Attachments/image-24-x155-y254.png",
+    "98 Ressourcen/Attachments/image-24-x188-y596.png",
+    "98 Ressourcen/Attachments/image-23-x125-y431.png",
+    "98 Ressourcen/Attachments/image-22-x134-y136.png",
+    "98 Ressourcen/Attachments/image-22-x189-y535.png",
+    "98 Ressourcen/Attachments/image-16-x87-y152.png",
+    "Ideen Methoden MAPLE.canvas",
+    "01 Projects/TÜV/Workshop Leiko/Ressourcen/Methoden WS LeiKo.canvas",
+    "01 Projects/Persönliches/Para-Methode anlegen/Ressourcen/MAPLE System.canvas",
+    "01 Projects/Persönliches/Para-Methode anlegen/Ressourcen/P.A.R.A-Method.canvas",
+    "01 Projects/TÜV/Konzept Akademie/Maßnahmenkapitel TÜV KONZEPT.canvas",
+    "01 Projects/TÜV/Konzept Akademie/Akademie Konzept Canvas.canvas"
+  ]
+}

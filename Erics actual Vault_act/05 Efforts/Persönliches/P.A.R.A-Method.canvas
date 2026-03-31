@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"type":"group","id":"2d494d2e6906d092","x":-516,"y":-575,"width":958,"height":379,"color":"1","label":"A"},
+		{"type":"group","id":"04f4a62d667d9b95","x":-300,"y":220,"width":540,"height":340,"color":"2","label":"A"},
+		{"type":"group","id":"d3440a019e84f9b9","x":120,"y":-141,"width":620,"height":241,"color":"5","label":"R"},
+		{"type":"group","id":"751f246a8e62e115","x":-800,"y":-140,"width":610,"height":240,"color":"4","label":"P"},
+		{"type":"text","text":"Lebensbereiche","id":"e91587f1bf41f502","x":-280,"y":480,"width":250,"height":60},
+		{"type":"text","text":"# PARA","id":"1ea42ac06b70c4a2","x":-780,"y":-500,"width":250,"height":60},
+		{"type":"text","text":"Abgeschlossene Projekte ","id":"8cad0dabd75a7e79","x":-496,"y":-487,"width":308,"height":77},
+		{"type":"text","text":"Goal","id":"b877cb6c93230136","x":-780,"y":-115,"width":250,"height":60},
+		{"type":"text","text":"**Projects**\nSerie von Action Items, das zu einem Ziel gehört und eine Deadline hat","id":"f1aef8ca11cd4687","x":-467,"y":-115,"width":250,"height":200},
+		{"type":"text","text":"Action Item","id":"6ca5469210c2f6e3","x":-780,"y":-45,"width":250,"height":60},
+		{"type":"text","text":"Deadline","id":"f4bc8c2dc9fe5161","x":-780,"y":25,"width":250,"height":60},
+		{"type":"text","text":"**Areas**\nEine Aktivitätsshpäre, die von Zeit zu Zeit Zuwendung bedarf","id":"ca864f47d30af85b","x":-155,"y":240,"width":250,"height":203},
+		{"type":"text","text":"**Archive**\nAlle Dinge, die in diesem Moment nicht mehr relevant sind aber behalten werden","id":"ea1deb011efa0d36","x":-155,"y":-555,"width":250,"height":230},
+		{"type":"text","text":"Areas, die nicht länger relevant sind.","id":"51d8adff52238a10","x":-171,"y":-293,"width":282,"height":77},
+		{"type":"text","text":"R ist Kontext für A und P","id":"d9c7adc5ae37ddaf","x":-179,"y":-5,"width":290,"height":60,"color":"6"},
+		{"type":"text","text":"Verantwortlichkeiten","id":"c9057a3ee61f23af","x":-30,"y":480,"width":250,"height":60},
+		{"type":"text","text":"Themen, die nicht mehr von Interesse sind","id":"f0fbdf06b338ccbf","x":140,"y":-487,"width":282,"height":77},
+		{"type":"text","text":"**Ressources**\nThemen(-Felder) die mich laufend interessieren","id":"e47da66d12d17bbd","x":140,"y":-122,"width":250,"height":200},
+		{"type":"text","text":"Lernfelder","id":"96dc7456d7494cc9","x":460,"y":-121,"width":260,"height":60},
+		{"type":"text","text":"Rechercheergebnisse","id":"870c52dc653271de","x":460,"y":-52,"width":260,"height":60},
+		{"type":"text","text":"Literaturnotizen","id":"ef2c61e44c144aba","x":460,"y":18,"width":260,"height":60}
+	],
+	"edges":[
+		{"id":"726285b0e63423eb","fromNode":"b877cb6c93230136","fromSide":"right","toNode":"f1aef8ca11cd4687","toSide":"left","toEnd":"none"},
+		{"id":"36017259eeaac7d1","fromNode":"6ca5469210c2f6e3","fromSide":"right","toNode":"f1aef8ca11cd4687","toSide":"left","toEnd":"none"},
+		{"id":"450ec941a838cb83","fromNode":"f4bc8c2dc9fe5161","fromSide":"right","toNode":"f1aef8ca11cd4687","toSide":"left","toEnd":"none"},
+		{"id":"03b7b45151849b0a","fromNode":"e47da66d12d17bbd","fromSide":"right","toNode":"96dc7456d7494cc9","toSide":"left","toEnd":"none"},
+		{"id":"d41ce7f1d03ba086","fromNode":"e47da66d12d17bbd","fromSide":"right","toNode":"870c52dc653271de","toSide":"left","toEnd":"none"},
+		{"id":"6410545a4feefbd0","fromNode":"e47da66d12d17bbd","fromSide":"right","toNode":"ef2c61e44c144aba","toSide":"left","toEnd":"none"},
+		{"id":"9429b5d1c6bccc2e","fromNode":"ca864f47d30af85b","fromSide":"bottom","toNode":"e91587f1bf41f502","toSide":"top","toEnd":"none"},
+		{"id":"abbf1b9817b6c022","fromNode":"ca864f47d30af85b","fromSide":"bottom","toNode":"c9057a3ee61f23af","toSide":"top","toEnd":"none"},
+		{"id":"3b3476a2f0ad683c","fromNode":"f1aef8ca11cd4687","fromSide":"bottom","toNode":"ca864f47d30af85b","toSide":"left","color":"2","label":"Jedes Project ist \neiner Area zugeordnet"},
+		{"id":"bc1302143b67b2a1","fromNode":"04f4a62d667d9b95","fromSide":"top","toNode":"d3440a019e84f9b9","toSide":"left","fromEnd":"arrow","color":"6"},
+		{"id":"12add61a8dd9d4b5","fromNode":"751f246a8e62e115","fromSide":"right","toNode":"d3440a019e84f9b9","toSide":"left","fromEnd":"arrow","color":"6"},
+		{"id":"33d418b593ecc5c4","fromNode":"751f246a8e62e115","fromSide":"top","toNode":"8cad0dabd75a7e79","toSide":"bottom","color":"1"},
+		{"id":"cea4dc36034b06a6","fromNode":"d3440a019e84f9b9","fromSide":"top","toNode":"f0fbdf06b338ccbf","toSide":"bottom","color":"1"},
+		{"id":"b8e2b9671924ffdc","fromNode":"04f4a62d667d9b95","fromSide":"top","toNode":"51d8adff52238a10","toSide":"bottom","color":"1"}
+	]
+}

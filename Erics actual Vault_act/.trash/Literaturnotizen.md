@@ -1,0 +1,5 @@
+``````dataview
+list
+FROM #literatur 
+``````
+

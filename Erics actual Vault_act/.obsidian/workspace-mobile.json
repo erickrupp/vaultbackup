@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7b70b0130298bc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a87fdbba1cbb996d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Meistens liegen wir lieber mit der Menge falsch, als allein recht zu haben.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Meistens liegen wir lieber mit der Menge falsch, als allein recht zu haben"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de574063c9f26ce7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e0947f8837ffc37a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d8d73bc1a2f53d7b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "de6bd8bf9ec74273",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c37098c8ffa5c598",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "starred"
+        }
+      },
+      {
+        "id": "e06f5d34b965a37e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "b887b8a1b3bc5a37",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "086499e276ef106b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae0b13e31a3adb89",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01 Projects/TÜV/Transfer/Plan für eine Transferstrategie entwerfen.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ca014a803233bc70",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "01 Projects/TÜV/Transfer/Plan für eine Transferstrategie entwerfen.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1dcbc4478db68834",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "01 Projects/TÜV/Transfer/Plan für eine Transferstrategie entwerfen.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "25ca1d504fbcb9e7",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "728da1ce4e1ca327",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "888117556e53d6f5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6de462acf87aeed3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6c10410cfadc4578",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "9d8baa51baf324ea",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "7659f08d249ae691",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a87fdbba1cbb996d",
+  "lastOpenFiles": [
+    "000 Was noch zu tun ist.md",
+    "Backlinks.base",
+    "03 Ressources/Lit/Im Grunde Gut.md",
+    "00 Inbox/Finde deinen Bremser.md",
+    "98 Ressourcen/Attachments/Sich selbst kennenlernen.pdf",
+    "Leseliste.md",
+    "03 Ressources/Dirty Dozen.md",
+    "Meine MOCs.md",
+    "Qualitäten des Lernens - vom Wissen bis zur Evaluation.md",
+    "02 Areas/Umfeld/Freunde Familie/Brief an Arnold.md",
+    "02 Areas/Umfeld/Freunde Familie/Freunde und Familie.md",
+    "02 Areas/Umfeld/Freunde Familie",
+    "00 Inbox/Secret Buddy.md",
+    "00 Inbox/Wertschätzungsdusche.md",
+    "01 Projects/TÜV/Transfer/Plan für eine Transferstrategie entwerfen.md",
+    "00 MAPLE/02 Ziele/TÜV - Die wichtigsten Dinge Ende 23 bis Mitte 24 - Sammelziel.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-07.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-16.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-08.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-09.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-11.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-15.md",
+    "03 Ressources/Verfassen von Gebrauchstexten.md",
+    "03 Ressources/Lit/Schneller, besser, kürzer - Professionell schreiben - Zahrnt, Valentin.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-14.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-12.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-10.md",
+    "00 MAPLE/03 📅-Review/Perioden/02 Weekly/2023-W33.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-08-13.md",
+    "01 Projects/Para-Methode anlegen/Ressourcen/MAPLE System.canvas",
+    "98 Ressourcen/Attachments/screenshot.png",
+    "00 Inbox",
+    "98 Ressourcen/Attachments/Allgemeine Depressionsskala (ADS).pdf",
+    "98 Ressourcen/Attachments/Verantwortungsübernahme und psychologische Sicherheit.png",
+    "98 Ressourcen/Attachments/Übersicht Konzept Maßnahmen 1.png",
+    "98 Ressourcen/Attachments/Methodik und Ablauf von kollegiale Beratung in sechs Phasen.pdf",
+    "98 Ressourcen/Attachments/Unterlage Nordstern.pdf",
+    "98 Ressourcen/Attachments/Bildschirmfoto 2022-06-26 um 17.38.43.png",
+    "98 Ressourcen/Attachments/400px-Erweiterte_Bedürfnishierarchie_(1970)_nach_Maslow.svg.png",
+    "98 Ressourcen/Attachments/Bildschirmfoto 2022-06-29 um 17.46.04.png",
+    "98 Ressourcen/Attachments/Depression-Test-Bin-ich-depressiv.pdf",
+    "98 Ressourcen/Attachments/Derpressionstest_neu_01.pdf",
+    "98 Ressourcen/Attachments/Rollen einer Führungskraft nach Robert Quinn.png",
+    "98 Ressourcen/Attachments/420px-Maslow_Bedürfnispyramide.svg.png",
+    "98 Ressourcen/Attachments/notes.txt",
+    "98 Ressourcen/Attachments/440px-Johari2.svg.png",
+    "98 Ressourcen/Attachments/Fragen Ressourcen Zeit über Person.png"
+  ]
+}

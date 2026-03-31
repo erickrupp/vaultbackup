@@ -1,0 +1,60 @@
+filters:
+  or:
+    - file.inFolder("05 Efforts/Schreiben")
+    - file.inFolder("05 Efforts/Schreiben/Schreiben")
+views:
+  - type: table
+    name: Alle Schreibprojekte
+    order:
+      - file.name
+      - file.folder
+      - project
+      - type
+  - type: table
+    name: Blogbeiträge
+    filters:
+      and:
+        - file.inFolder("05 Efforts/Schreiben/Blog")
+        - type == ["blogpost"]
+    order:
+      - file.name
+      - type
+      - status
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 352
+  - type: table
+    name: Webseite
+    filters:
+      and:
+        - file.inFolder("05 Efforts/Schreiben/Webseite")
+        - type == ["webtext"]
+    order:
+      - file.name
+      - type
+      - status
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 352
+  - type: table
+    name: Journaling Tipps
+    filters:
+      and:
+        - file.inFolder("05 Efforts/Schreiben/journalingtipps")
+    order:
+      - file.name
+      - type
+      - status
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      file.name: 352
+      note.type: 201

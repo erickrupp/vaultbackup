@@ -1,0 +1,79 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Träume, Visualisierung, Erfahrung",
+      "template": "99 Templates/Traumtemplate.md"
+    },
+    {
+      "folder": "02 Areas/Beruf und Finanzen/OrientierungSinn/Blog/Artikel",
+      "template": "99 Templates/OS Blog Artikel Template.md"
+    },
+    {
+      "folder": "01 Projects/OrientierungSinn Webseite/Texte/Texte",
+      "template": "99 Templates/Webseite OrientierungSinn.md"
+    },
+    {
+      "folder": "00 MAPLE/03 Review/Perioden/01 Daily",
+      "template": "99 Templates/Daily Template.md"
+    },
+    {
+      "folder": "00 MAPLE/03 Review/Perioden/02 Weekly",
+      "template": "99 Templates/Weekly Template.md"
+    },
+    {
+      "folder": "00 MAPLE/03 Review/Perioden/03 Monthly",
+      "template": "99 Templates/Monthly Template.md"
+    },
+    {
+      "folder": "00 MAPLE/03 Review/Perioden/04 annually",
+      "template": "99 Templates/Annually Template.md"
+    },
+    {
+      "folder": "01 Projects/TÜV/Blog",
+      "template": "99 Templates/TÜV Blog Template.md"
+    },
+    {
+      "folder": "01 Projects/TÜV/Konzept Akademie",
+      "template": "99 Templates/TÜV Konzepte Template Konzept23.md"
+    },
+    {
+      "folder": "02 Areas/Beruf und Finanzen/OrientierungSinn/Blog/Research",
+      "template": "99 Templates/OS Blog Research Template.md"
+    },
+    {
+      "folder": "+",
+      "template": "99 Templates/+ Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

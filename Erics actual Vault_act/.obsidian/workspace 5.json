@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9f290b478b9a62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e68d7401f533735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/00 INBOX/Entwicklung eines Zielfindungsprozesses im Vorfeld der TÜV internen Planung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3383d360c2cdc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/TÜV/Trainingsplanung Selbstmanagement für SS/Ressourcen/Research Trainingsplanung MAPLE für SS23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf304033dee94b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/00 INBOX/Arbeitszimmer umbauen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e086a4c6e1cae8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Lit/Midlife Crisis is a precious Opportunity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e4e22db6622aa24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Midlife-Crisis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a9155985bafada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa59a864874615b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/JF Gerhartz Überblick.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90fb1be83e0ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf04b129fa2d4f0",
+        "type": "tabs",
+        "dimension": 63.494539781591264,
+        "children": [
+          {
+            "id": "166c3568e51ddbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "b49f1830dbd671b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9537a15e7fdaa438",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "538f77fd61e7c5f4",
+        "type": "tabs",
+        "dimension": 36.505460218408736,
+        "children": [
+          {
+            "id": "5d5eeb80e4fb8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "287bcc477be46699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "freiheitsgrade",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395
+  },
+  "right": {
+    "id": "280abf14e8be42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a25c18069b15a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d56ae4aaa02043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e5804cb011b00bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "361417a293abcf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff6bb828fcac3dad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0d7c824336142a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008fb42793ec19fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4771264054306991,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e7e7358a64175807",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "4de686ac0e7f5a7b",
+  "lastOpenFiles": [
+    "test.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-30.md",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/JF Gerhartz Überblick.md",
+    "01 Projects/TÜV/Summer School 23/Ressources/Vorbereitung SummerSchool TNAkademie.md",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/Termine/2023-03-22 JF Ghz Minutes.md",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/Termine/2023-03-29 JF Ghz Minutes.md",
+    "01 Projects/00 INBOX/Entwicklung eines Zielfindungsprozesses im Vorfeld der TÜV internen Planung.md",
+    "01 Projects/TÜV/Blog/Artikel/Lernen mit Lernkarten.md",
+    "01 Projects/00 INBOX/Vision und Mission der MAA.md",
+    "00 MAPLE/03 📅-Review/Perioden/02 Weekly/2023-W13.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-28.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-29.md",
+    "02 Areas/Persönliches/Fitness und Gesundheit.md",
+    "01 Projects/TÜV/Trainingsplanung Selbstmanagement für SS/Trainingsplanung Selbstmanagement Summer School 23.md",
+    "01 Projects/TÜV/Workshop Leiko/Workshop Leiko.md",
+    "03 Ressources/Lit/Machen Sie doch, was Sie wollen! - Storch, Maja.md",
+    "01 Projects/OrientierungSinn Webseite/Struktur/Webseitenstruktur festlegen.md",
+    "01 Projects/00 INBOX/Arbeitszimmer umbauen.md",
+    "01 Projects/TÜV/Trainingsplanung Selbstmanagement für SS/Ressourcen/Research Trainingsplanung MAPLE für SS23.md",
+    "03 Ressources/Lit/Die ultimative Einführung in NLP by Blinkist.md",
+    "03 Ressources/Lit/Die Kunst, Menschen zu begeistern by Blinkist - Blinkist.md",
+    "03 Ressources/Lit/Der tägliche Stoiker by Blinkist.md",
+    "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+    "01 Projects/TÜV/Transfer/Aktives Üben als Transferstrategie.md",
+    "03 Ressources/Wiederholungen festigen das gelernte Wissen signifikant.md",
+    "03 Ressources/Die Grundlage aller Change-Probleme.md",
+    "Ideen Methoden MAPLE.canvas",
+    "01 Projects/BTB-Lernen/Coach/Fragen",
+    "01 Projects/BTB-Lernen/HP/Lernnotizen",
+    "98 Ressourcen/Attachments/Fragen Ressourcen Zeit über Person.png",
+    "98 Ressourcen/Attachments/Systemische_Fragen_fuer_Fuehrungskraefte Kopie.pdf",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz/Termine",
+    "02 Areas/Beruf und Finanzen/TÜV/JF Ghz",
+    "02 Areas/Beruf und Finanzen/TÜV",
+    "01 Projects/BTB-Lernen/Coach",
+    "01 Projects/BTB-Lernen/HP",
+    "01 Projects/BTB-Lernen/Coach/Lernnotizen",
+    "01 Projects/BTB-Lernen/Lernroutine",
+    "98 Ressourcen/Attachments/IKIGAI.png",
+    "98 Ressourcen/Attachments/Douglas Adams  Quotes Quotable Quote.jpeg",
+    "01 Projects/TÜV/Workshop Leiko/Ressourcen/Methoden WS LeiKo.canvas",
+    "01 Projects/Para-Methode anlegen/Ressourcen/MAPLE System.canvas",
+    "01 Projects/Para-Methode anlegen/Ressourcen/P.A.R.A-Method.canvas",
+    "98 Ressourcen/Attachments/Konvergentes-Divergentes Denken.png",
+    "01 Projects/TÜV/Konzept Akademie/Maßnahmenkapitel TÜV KONZEPT.canvas",
+    "01 Projects/TÜV/Konzept Akademie/Akademie Konzept Canvas.canvas",
+    "98 Ressourcen/Attachments/Überblick Konzept Maßnahmen Fristigkeit.png"
+  ]
+}

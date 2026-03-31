@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d57202ab9dd497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99c93d2c0ce491c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/00 INBOX/Vorbereitung Kommunion Luis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90fb1be83e0ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf04b129fa2d4f0",
+        "type": "tabs",
+        "dimension": 63.494539781591264,
+        "children": [
+          {
+            "id": "166c3568e51ddbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "b49f1830dbd671b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9537a15e7fdaa438",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "538f77fd61e7c5f4",
+        "type": "tabs",
+        "dimension": 36.505460218408736,
+        "children": [
+          {
+            "id": "5d5eeb80e4fb8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "287bcc477be46699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#inbox",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246
+  },
+  "right": {
+    "id": "280abf14e8be42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a25c18069b15a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d56ae4aaa02043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Projects/00 INBOX/Vorbereitung Kommunion Luis.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e5804cb011b00bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Projects/00 INBOX/Vorbereitung Kommunion Luis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "361417a293abcf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff6bb828fcac3dad",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0d7c824336142a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008fb42793ec19fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01 Projects/00 INBOX/Vorbereitung Kommunion Luis.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4803616263547505,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e7e7358a64175807",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e99c93d2c0ce491c",
+  "lastOpenFiles": [
+    "04 Archive/01 Projects",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-17.md",
+    "04 Archive/02 Areas",
+    "04 Archive/03 Ressources",
+    "01 Projects/00 INBOX/Vorbereitung Kommunion Luis.md",
+    "00 MAPLE/03 📅-Review/Perioden/02 Weekly/2023-W11.md",
+    "00 MAPLE/03 📅-Review/Perioden/03 Monthly/2023-03.md",
+    "99 Templates/Monthly Template.md",
+    "99 Templates/Weekly Template.md",
+    "99 Templates/Project Template.md",
+    "01 Projects/00 Projectinfo.md",
+    "01 Projects/test222.md",
+    "01 Projects/00 INBOX/P.A.R.A-Methode auf meine Ablagen im TÜV und zuhause anwenden.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-19.md",
+    "00 MAPLE/03 📅-Review/Perioden/02 Weekly/2023-W12.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-18.md",
+    "01 Projects/00 INBOX/Vorbereitung SummerSchool TNAkademie.md",
+    "01 Projects/00 INBOX/Webseitenstruktur festlegen.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-15.md",
+    "01 Projects/TÜV/Blog/Lernen mit Lernkarten.md",
+    "00 MAPLE/03 📅-Review/Perioden/01 Daily/2023-03-16.md",
+    "01 Projects/Webseite OS über Bilder entscheiden -  machen oder kaufen oder lizenzfrei oder alles.md",
+    "00 MAPLE/02 🎯-Ziele/Webseite OS bis Juni fertig und Online haben.md",
+    "02 Projects/00 INBOX/Texte Webseite OrientierungSinn Struktur und Ausrichtungen.md",
+    "02 Projects/00 INBOX/Struktur LYS.md",
+    "99 Templates/Annually Template.md",
+    "00 MAPLE/02 🎯-Ziele/Die Summer School erfolgreich durchführen.md",
+    "02 Areas/Beruf und Finanzen/Lernen und Ausbildung.md",
+    "02 Projects/00 INBOX",
+    "02 Projects",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts",
+    "textgenerator",
+    "Context",
+    "01 Projects/BTB-Lernen/Fragen",
+    "02 Areas/Beruf und Finanzen",
+    "MAPLE System.canvas",
+    "P.A.R.A-Method.canvas",
+    "01 Projects/TÜV/Methoden WS LeiKo.canvas",
+    "98 Ressourcen/Attachments/Konvergentes-Divergentes Denken.png",
+    "01 Projects/TÜV/Konzept Akademie/Maßnahmenkapitel TÜV KONZEPT.canvas",
+    "01 Projects/TÜV/Konzept Akademie/Akademie Konzept Canvas.canvas",
+    "98 Ressourcen/Attachments/Überblick Konzept Maßnahmen Fristigkeit.png"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1684253422230,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1684253414319,
+          "path": "00 Overhead, MOCs/Orientierung und Sinn.md"
+        },
+        {
+          "type": "file",
+          "path": "03 Ressources/Klarheit und Liebe.md",
+          "ctime": 1683620851929
+        }
+      ],
+      "title": "Hubs"
+    },
+    {
+      "type": "group",
+      "ctime": 1693565280735,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1693565256537,
+          "query": "[\"type\":project] [\"status\":new",
+          "title": "Neue Projekte"
+        }
+      ],
+      "title": "Suchen"
+    },
+    {
+      "type": "group",
+      "ctime": 1763130261759,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1759267461399,
+          "path": "00 Overhead, MOCs/Journaling Tipps MOC.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1763130325738,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1763130332700,
+              "path": "05 Efforts/Schreiben/Webseite/MAPLE-Webseite Texte.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1763130366171,
+              "path": "01 Projects/OrientierungSinn/Webseite/Webseite OrientierungSinn.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1763130378325,
+              "path": "05 Efforts/Schreiben/Webseite/Texte Startseite OrientierungSinn-Webseite.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1763130392727,
+              "path": "05 Efforts/Schreiben/Webseite/Texte über mich.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1763130425066,
+              "path": "01 Projects/02 In Arbeit/Projekt - Webseite.md"
+            },
+            {
+              "type": "group",
+              "ctime": 1763130454455,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1763130351992,
+                  "path": "05 Efforts/Schreiben/Blog/OS/Scheitern ist nur Erwartungsabweichung.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1763130402854,
+                  "path": "05 Efforts/Schreiben/Blog/OS/Wenn Wut erwachsen wird.md"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1763130414100,
+                  "path": "05 Efforts/Schreiben/Blog/OS/Wenn Gedanken Realität werden – Ein persönliches Dilemma über Selbstverantwortung.md"
+                }
+              ],
+              "title": "Blog"
+            }
+          ],
+          "title": "Webseite"
+        },
+        {
+          "type": "file",
+          "ctime": 1763130240281,
+          "path": "03 Ressources/offene und geschlossene Spiele.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1763130295014,
+          "path": "03 Ressources/Lit/Das Unendliche Spiel - Sinek, Simon.md"
+        }
+      ],
+      "title": "Hier muss noch gearbeitet werden"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "main": {
+    "id": "e330b22cb368b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "683fa70f9b25cf38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6adba090aa2609a9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Konzept Strategie Entwicklung von MA.canvas",
+                "viewState": {
+                  "x": 379.3779979384451,
+                  "y": 630.9077384959833,
+                  "zoom": -0.58718716583567
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Konzept Strategie Entwicklung von MA"
+            }
+          },
+          {
+            "id": "3ffbbc54c92792c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Was brauchen wir für eine Veränderungskultur in der Organisation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Was brauchen wir für eine Veränderungskultur in der Organisation"
+            }
+          },
+          {
+            "id": "41cedf85a6609513",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.4"
+            }
+          },
+          {
+            "id": "afbe2324e860aef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Schreiben/Problemaufriss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Problemaufriss"
+            }
+          },
+          {
+            "id": "55d24d3118c35f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Maßnahmenskizze Konzept Strategie Entwicklung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maßnahmenskizze Konzept Strategie Entwicklung"
+            }
+          },
+          {
+            "id": "bac43d44576b86d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Lit/Veränderungskultur.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Veränderungskultur"
+            }
+          },
+          {
+            "id": "eb4b866550e7f663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Die Höhe der Übereinstimmung bestimmt Normalität.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Höhe der Übereinstimmung bestimmt Normalität"
+            }
+          },
+          {
+            "id": "9b6ba9824031be15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Strategische PE - Ziele und Schnittstellen Kopie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Strategische PE - Ziele und Schnittstellen Kopie"
+            }
+          },
+          {
+            "id": "f4ccd118d805136a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Ressources/Lit/Git Tutorial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git Tutorial"
+            }
+          },
+          {
+            "id": "1b08a0ed2dc7c9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Efforts/Lernen/E-Learning Purpose - Pinktum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "E-Learning Purpose - Pinktum"
+            }
+          },
+          {
+            "id": "dbac7e7746852240",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "10 Bases/Backlinks.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Backlinks"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90fb1be83e0ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf04b129fa2d4f0",
+        "type": "tabs",
+        "dimension": 50.05464480874316,
+        "children": [
+          {
+            "id": "166c3568e51ddbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "fc34a69373d81bf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      },
+      {
+        "id": "538f77fd61e7c5f4",
+        "type": "tabs",
+        "dimension": 49.94535519125683,
+        "children": [
+          {
+            "id": "5d5eeb80e4fb8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "proj"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "287bcc477be46699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pink",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "008fb42793ec19fd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03 Ressources/Lit/Haben oder Sein - Fromm, Erich.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.13163636363636,
+                  "lineSizeMultiplier": 0.798909090909091,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.836181930818121,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph von Haben oder Sein - Fromm, Erich"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.50390243530273
+  },
+  "right": {
+    "id": "280abf14e8be42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a25c18069b15a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a8f03def5af7f20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+            }
+          },
+          {
+            "id": "901dfb357dc84fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/02 In Arbeit/Konzept Entwicklung TNCERT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Konzept Entwicklung TNCERT"
+            }
+          },
+          {
+            "id": "72d56ae4aaa02043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Konzept Strategie Entwicklung von MA.canvas",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf Konzept Strategie Entwicklung von MA"
+            }
+          },
+          {
+            "id": "e5804cb011b00bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+            }
+          },
+          {
+            "id": "d41f031dcc177290",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "da931120e612acc9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Anstehende Notizen zur Wiederholung"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Heutige Notiz öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "obsidian-kanban:Erstelle ein neues Board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "da931120e612acc9",
+  "lastOpenFiles": [
+    "05 Efforts/Journaling Factory/Problems/ADHS-ständiges assoziieren.md",
+    "+/ADHS Problemfälle für mich jetzt so.md",
+    "+/ADHS-Depressionsgefahr.md",
+    "01 Projects/02 In Arbeit/Journaling Factory.md",
+    "ADHS-ständiges assoziieren (Wiederhergestellt).md",
+    "Neue Notiz.md",
+    "ADHS-ständiges assoziieren.md",
+    "10 Bases/Backlinks.base",
+    "10 Bases/journalingDB.base",
+    "03 Ressources/Brief an die Mutter - Generierung von Informationen.md",
+    "10 Bases/JF-Tool.base",
+    "Testoutliner.md",
+    "URI.md",
+    "05 Efforts/Journaling Factory/Tools/Journalingprompts.md",
+    "03 Ressources/Textpfad.md",
+    "03 Ressources/Lit/Tim Urban - Inside the mind of a master procrastinator.md",
+    "05 Efforts/Journaling Factory/Problems/ADHS-Ich verstehe die Dinge nicht, wenn sie unsortiert sind.md",
+    "03 Ressources/Notizstrategie Denkskizze.md",
+    "03 Ressources/Mental Inventory.md",
+    "03 Ressources/Brief an jemand anderen oder ein anderes ich.md",
+    "03 Ressources/Lit/Der Fragetrick.md",
+    "03 Ressources/Gedanken- Fokussprint.md",
+    "03 Ressources/Lit/Ziele - Am Anfang das Ende vor Augen haben.md",
+    "03 Ressources/Wortsprint.md",
+    "03 Ressources/Visualisierung von Zielen.md",
+    "03 Ressources/SWOT im Journaling.md",
+    "03 Ressources/Seriensprint.md",
+    "03 Ressources/Selbstinstruktion.md",
+    "03 Ressources/Schreibstaffel.md",
+    "98 Ressourcen/Attachments/artikel_bildungplus_20090401-1.pdf",
+    "98 Ressourcen/Attachments/gollwitzer-bayer-1999-deliberative-versus-implemental-mindsets-in-the-control-of-action.pdf",
+    "98 Ressourcen/Attachments/Transferfolder 1.pdf",
+    "98 Ressourcen/Attachments/Gegenwart Vergangenheit und Zukunft in Fragen 1.pdf",
+    "98 Ressourcen/Attachments/Kickstart-Projektmanagement.pdf",
+    "98 Ressourcen/Attachments/Systemische_Fragen_fuer_Fuehrungskraefte Kopie.pdf",
+    "98 Ressourcen/Attachments/Ich Entwicklung Hofer_kom.pdf",
+    "Konzept Strategie Entwicklung von MA.canvas",
+    "98 Ressourcen/Attachments/Pasted image 20260311174956.png",
+    "98 Ressourcen/Attachments/Pasted image 20260310143128.png",
+    "Unbenannt.canvas",
+    "98 Ressourcen/Attachments/Pasted image 20260119131634.png",
+    "03 Ressources/Lit/ImagesemmonsCountingBlessingsBurdens2003/image-5-x314-y574.png",
+    "05 Efforts/StrategieTÜV/Methoden WS LeiKo.canvas",
+    "05 Efforts/StrategieTÜV/Maßnahmenkapitel TÜV KONZEPT.canvas",
+    "05 Efforts/StrategieTÜV/Akademie Konzept Canvas.canvas",
+    "05 Efforts/OS/Ideen Methoden MAPLE.canvas",
+    "05 Efforts/Persönliches/MAPLE System.canvas",
+    "98 Ressourcen/Attachments/Preview.jpg",
+    "01 Projects/Dinge, die mir guttun/Mind-Node_Projekte zum Schreiben.mindnode/QuickLook/Preview.jpg",
+    "98 Ressourcen/Attachments/PDCA.jpg",
+    "05 Efforts/Persönliches/P.A.R.A-Method.canvas",
+    "98 Ressourcen/Attachments/image003.png",
+    "98 Ressourcen/Attachments/image002.png",
+    "98 Ressourcen/Attachments/image001.png"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"c6015827d367f074","x":404,"y":-87,"width":400,"height":400,"type":"file","file":"03 Ressources/Maßnahmenskizze Konzept Strategie Entwicklung.md"},
+		{"id":"a5f3ffb828d0b41a","type":"file","file":"03 Ressources/Was brauchen wir für eine Veränderungskultur in der Organisation.md","x":4,"y":580,"width":400,"height":400},
+		{"id":"5207fe582c71f43e","type":"file","file":"03 Ressources/Veränderungsbebarf in den Unternehmen.md","x":4,"y":-87,"width":336,"height":667},
+		{"id":"ad576969335d15b3","type":"file","file":"01 Projects/02 In Arbeit/Projekt - Konzept Entwicklung TNCERT.md","x":-120,"y":-320,"width":320,"height":180},
+		{"id":"bdf84e56d3380b53","type":"file","file":"05 Schreiben/Konzept VER/Problemaufriss.md","x":-370,"y":-140,"width":250,"height":136},
+		{"id":"48b155c0a67d0c3d","type":"file","file":"05 Schreiben/Konzept VER/Was bedeutet die KI Revolution für Unternehmen.md","x":-370,"y":60,"width":250,"height":360},
+		{"id":"17a6d445eca3332d","type":"file","file":"05 Schreiben/Konzept VER/Kennzeichen resilienter Organisationen.md","x":-370,"y":460,"width":250,"height":400}
+	],
+	"edges":[]
+}

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - project.contains(link("journalingtipps"))
+    - file.folder != "99 Templates"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - journalingarea
+      - project
+      - Anwendungsfall
+      - type
+    columnSize:
+      file.name: 141
+      note.journalingarea: 253
+      note.Anwendungsfall: 380

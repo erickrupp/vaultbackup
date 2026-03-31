@@ -1,0 +1,3081 @@
+{
+  "workspaces": {
+    "Start": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "8664229eb75e57f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e440be7e6b323411",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Neuer Tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 203.50043487548828
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "dimension": 48.380355276907,
+            "children": [
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweis"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "71a9642aaac99067",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Anstehende Notizen zur Wiederholung"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0d7c824336142a5c",
+            "type": "tabs",
+            "dimension": 51.619644723092996,
+            "children": [
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 251.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Graph-Ansicht öffnen": false,
+          "bases:Create new base": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "008fb42793ec19fd",
+      "mtime": "2025-12-03T17:58:51+01:00"
+    },
+    "Arbeit an offenen Themen und Projekten": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "1954aa0864a75d2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "50b34a66368d6c6a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Neuer Tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "d724063e19c197ca",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Alle Notizen an denen gearbeitet werden muss.base",
+                    "viewName": "Texte"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Alle Notizen an denen gearbeitet werden muss"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311.50390243530273
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "dimension": 30.708661417322837,
+            "children": [
+              {
+                "id": "6ac34d4e59e5f7fc",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Alle Notizen an denen gearbeitet werden muss.base",
+                    "viewName": "Projekte"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Alle Notizen an denen gearbeitet werden muss"
+                }
+              },
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "10 Bases/Alles was neu ist.base",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweise für Alles was neu ist"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "10 Bases/Alle Notizen an denen gearbeitet werden muss.base",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Alle Notizen an denen gearbeitet werden muss öffnen"
+                }
+              },
+              {
+                "id": "71a9642aaac99067",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Anstehende Notizen zur Wiederholung"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0d7c824336142a5c",
+            "type": "tabs",
+            "dimension": 69.29133858267717,
+            "children": [
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "10 Bases/Alle Notizen an denen gearbeitet werden muss.base",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph von Alle Notizen an denen gearbeitet werden muss"
+                }
+              },
+              {
+                "id": "32c9958447e24f7f",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Alle Notizen an denen gearbeitet werden muss.base",
+                    "viewName": "evergreens"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Alle Notizen an denen gearbeitet werden muss"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 400.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Graph-Ansicht öffnen": false,
+          "bases:Create new base": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "floating": {
+        "id": "7d080e7d3105e3f0",
+        "type": "floating",
+        "children": [
+          {
+            "id": "94ea4d3bec7dd82f",
+            "type": "window",
+            "children": [
+              {
+                "id": "2f258e4ed784f0fd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "68930bba3fc9a78c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "Neuer Tab"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 1420,
+            "y": 396,
+            "width": 600,
+            "height": 600,
+            "maximize": false,
+            "zoom": 0.5
+          }
+        ]
+      },
+      "active": "32c9958447e24f7f",
+      "mtime": "2025-12-19T16:24:21+01:00"
+    },
+    "Meine Projekte": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ac8cfe2650d5508",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7643b78220445a79",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Neuer Tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "e440be7e6b323411",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Projects.base",
+                    "viewName": "Arbeitsvorrat"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Projects"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 365.51103591918945
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "dimension": 49.30015552099534,
+            "children": [
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweis"
+                }
+              },
+              {
+                "id": "89f7f47ef3dabe2b",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Projects.base",
+                    "viewName": "Projects in Arbeit"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Projects"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "71a9642aaac99067",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Anstehende Notizen zur Wiederholung"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "f087c1706ce664a8",
+            "type": "tabs",
+            "dimension": 50.69984447900466,
+            "children": [
+              {
+                "id": "c0761b7598347d73",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Projects.base",
+                    "viewName": "Projects on hold"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Projects"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 366.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Graph-Ansicht öffnen": false,
+          "bases:Create new base": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "c0761b7598347d73",
+      "mtime": "2025-12-03T17:57:57+01:00"
+    },
+    "Texte Journaling": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c1bb938ee6ba902",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7bbee6bbd30aefe7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Neuer Tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
+                }
+              },
+              {
+                "id": "6fb8b20725b98c96",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "viewName": "Journaling Tipps"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Schreibprojekte"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 330.50390243530273
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8f23224ca0053942",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Methoden.base",
+                    "viewName": "Journaling Methoden"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Methoden"
+                }
+              },
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweis"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "71a9642aaac99067",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Anstehende Notizen zur Wiederholung"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 334.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Graph-Ansicht öffnen": false,
+          "bases:Create new base": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "8f23224ca0053942",
+      "mtime": "2025-12-19T16:30:28+01:00"
+    },
+    "Webseite und Blog": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "e61029f85293ac15",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b674348aa55c6c39",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Workspace Webseite und Blog.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Workspace Webseite und Blog"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph von Schreibprojekte"
+                }
+              },
+              {
+                "id": "777e5a0ba0e615f7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "viewName": "Webseite"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Schreibprojekte"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 249.50390243530273
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "dimension": 33.46456692913386,
+            "children": [
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "e440be7e6b323411",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "viewName": "Blogbeiträge"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Schreibprojekte"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweise für Schreibprojekte"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "05283720c0e37461",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Methoden.base",
+                    "viewName": "Alle Methoden, die mir einfallen"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Methoden"
+                }
+              },
+              {
+                "id": "71a9642aaac99067",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Anstehende Notizen zur Wiederholung"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "7f06513b5bb99655",
+            "type": "tabs",
+            "dimension": 66.53543307086615,
+            "children": [
+              {
+                "id": "8c387c92c3c112b4",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Methoden.base",
+                    "viewName": "Alle Methoden, die mir einfallen"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Methoden"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 426.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Graph-Ansicht öffnen": false,
+          "bases:Create new base": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "b674348aa55c6c39",
+      "mtime": "2025-12-19T16:33:48+01:00"
+    },
+    "Konzept TÜV Entwicklung": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "683fa70f9b25cf38",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6adba090aa2609a9",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Konzept Strategie Entwicklung von MA.canvas",
+                    "viewState": {
+                      "x": -85,
+                      "y": 695.1400095889719,
+                      "zoom": -0.58718716583567
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Konzept Strategie Entwicklung von MA"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "proj"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "bedürfnis",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Konzept Strategie Entwicklung von MA.canvas",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph von Konzept Strategie Entwicklung von MA"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 249.50390243530273
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "901dfb357dc84fa5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 Projects/02 In Arbeit/Konzept Entwicklung TNCERT.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Konzept Entwicklung TNCERT"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Konzept Strategie Entwicklung von MA.canvas",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweise auf Konzept Strategie Entwicklung von MA"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 399.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Neue Base erstellen": false,
+          "graph:Graph-Ansicht öffnen": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "6adba090aa2609a9",
+      "mtime": "2026-02-19T11:14:28+01:00"
+    },
+    "Git": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "683fa70f9b25cf38",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6adba090aa2609a9",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Konzept Strategie Entwicklung von MA.canvas",
+                    "viewState": {
+                      "x": 379.3779979384451,
+                      "y": 630.9077384959833,
+                      "zoom": -0.58718716583567
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Konzept Strategie Entwicklung von MA"
+                }
+              },
+              {
+                "id": "3ffbbc54c92792c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 Ressources/Was brauchen wir für eine Veränderungskultur in der Organisation.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Was brauchen wir für eine Veränderungskultur in der Organisation"
+                }
+              },
+              {
+                "id": "41cedf85a6609513",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Versionshinweise 1.12.4"
+                }
+              },
+              {
+                "id": "afbe2324e860aef6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 Schreiben/Problemaufriss.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Problemaufriss"
+                }
+              },
+              {
+                "id": "55d24d3118c35f04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 Ressources/Maßnahmenskizze Konzept Strategie Entwicklung.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Maßnahmenskizze Konzept Strategie Entwicklung"
+                }
+              },
+              {
+                "id": "bac43d44576b86d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 Ressources/Lit/Veränderungskultur.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Veränderungskultur"
+                }
+              },
+              {
+                "id": "eb4b866550e7f663",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 Ressources/Die Höhe der Übereinstimmung bestimmt Normalität.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Die Höhe der Übereinstimmung bestimmt Normalität"
+                }
+              },
+              {
+                "id": "9b6ba9824031be15",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+/Strategische PE - Ziele und Schnittstellen Kopie.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Strategische PE - Ziele und Schnittstellen Kopie"
+                }
+              },
+              {
+                "id": "f4ccd118d805136a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 Ressources/Lit/Git Tutorial.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Git Tutorial"
+                }
+              },
+              {
+                "id": "1b08a0ed2dc7c9ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 Efforts/Lernen/E-Learning Purpose - Pinktum.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "E-Learning Purpose - Pinktum"
+                }
+              },
+              {
+                "id": "dbac7e7746852240",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Backlinks.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Backlinks"
+                }
+              }
+            ],
+            "currentTab": 8
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "proj"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "pink",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "03 Ressources/Lit/Haben oder Sein - Fromm, Erich.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph von Haben oder Sein - Fromm, Erich"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 249.50390243530273
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Das Merk Ich Mir - Brown, Roediger und McDaniel"
+                }
+              },
+              {
+                "id": "901dfb357dc84fa5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 Projects/02 In Arbeit/Konzept Entwicklung TNCERT.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Konzept Entwicklung TNCERT"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Konzept Strategie Entwicklung von MA.canvas",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweise auf Konzept Strategie Entwicklung von MA"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              },
+              {
+                "id": "da931120e612acc9",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {},
+                  "icon": "SpacedRepIcon",
+                  "title": "Anstehende Notizen zur Wiederholung"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 399.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Heutige Notiz öffnen": false,
+          "bases:Neue Base erstellen": false,
+          "graph:Graph-Ansicht öffnen": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "da931120e612acc9",
+      "mtime": "2026-03-12T08:38:40+01:00"
+    },
+    "Journaling Factory": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4fe8203ab728f80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "622b6dc88963aad7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/JF-Tool.base",
+                    "viewName": "Tabelle"
+                  },
+                  "icon": "lucide-table",
+                  "title": "JF-Tool"
+                }
+              },
+              {
+                "id": "18d5fc7ae10a8c3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 Efforts/Journaling Factory/Problems/ADHS-ständiges assoziieren.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ADHS-ständiges assoziieren"
+                }
+              },
+              {
+                "id": "1a1ed13350f713d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 Projects/02 In Arbeit/Journaling Factory.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Journaling Factory"
+                }
+              },
+              {
+                "id": "a92194fcdbea9e92",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+/ADHS Problemfälle für mich jetzt so.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ADHS Problemfälle für mich jetzt so"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
+                }
+              },
+              {
+                "id": "6fb8b20725b98c96",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "viewName": "Journaling Tipps"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Schreibprojekte"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 447.5
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7bbee6bbd30aefe7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/journalingDB.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "journalingDB"
+                }
+              },
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "10 Bases/journalingDB.base",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von journalingDB"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweis"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "daily-notes:Heutige Notiz öffnen": false,
+          "bases:Neue Base erstellen": false,
+          "graph:Graph-Ansicht öffnen": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "7bbee6bbd30aefe7",
+      "mtime": "2026-03-31T16:20:38+02:00"
+    },
+    "Distraction Free": {
+      "main": {
+        "id": "e330b22cb368b85a",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4fe8203ab728f80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "622b6dc88963aad7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/JF-Tool.base",
+                    "viewName": "Tabelle"
+                  },
+                  "icon": "lucide-table",
+                  "title": "JF-Tool"
+                }
+              },
+              {
+                "id": "18d5fc7ae10a8c3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 Efforts/Journaling Factory/Problems/ADHS-ständiges assoziieren.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ADHS-ständiges assoziieren"
+                }
+              },
+              {
+                "id": "1a1ed13350f713d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 Projects/02 In Arbeit/Journaling Factory.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Journaling Factory"
+                }
+              },
+              {
+                "id": "0b380a5f18be04a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Neue Notiz.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Neue Notiz"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "c8968244ee9a7b24",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1ba75780e02141f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Neue Notiz.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Neue Notiz"
+                }
+              }
+            ]
+          },
+          {
+            "id": "11ab07d71c8d65a3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b1a99c426925b97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Neue Notiz.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Neue Notiz"
+                }
+              },
+              {
+                "id": "a92194fcdbea9e92",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+/ADHS Problemfälle für mich jetzt so.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ADHS Problemfälle für mich jetzt so"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b90fb1be83e0ab8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaf04b129fa2d4f0",
+            "type": "tabs",
+            "dimension": 50.05464480874316,
+            "children": [
+              {
+                "id": "166c3568e51ddbea",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "b49f1830dbd671b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "starred"
+                }
+              },
+              {
+                "id": "fc34a69373d81bf5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              }
+            ]
+          },
+          {
+            "id": "538f77fd61e7c5f4",
+            "type": "tabs",
+            "dimension": 49.94535519125683,
+            "children": [
+              {
+                "id": "5d5eeb80e4fb8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "287bcc477be46699",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schuld",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "008fb42793ec19fd",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.13163636363636,
+                      "lineSizeMultiplier": 0.798909090909091,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.836181930818121,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
+                }
+              },
+              {
+                "id": "6fb8b20725b98c96",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/Schreibprojekte.base",
+                    "viewName": "Journaling Tipps"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Schreibprojekte"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 447.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "280abf14e8be42ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "81a25c18069b15a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7bbee6bbd30aefe7",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "10 Bases/journalingDB.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "journalingDB"
+                }
+              },
+              {
+                "id": "6a8f03def5af7f20",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Neue Notiz.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Neue Notiz"
+                }
+              },
+              {
+                "id": "72d56ae4aaa02043",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweis"
+                }
+              },
+              {
+                "id": "e5804cb011b00bf6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "03 Ressources/Lit/Das Merk Ich Mir - Brown, Roediger und McDaniel.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Das Merk Ich Mir - Brown, Roediger und McDaniel öffnen"
+                }
+              },
+              {
+                "id": "d41f031dcc177290",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Alle Eigenschaften"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:Erstelle ein neues Board": false,
+          "daily-notes:Heutige Notiz öffnen": false,
+          "bases:Neue Base erstellen": false,
+          "graph:Graph-Ansicht öffnen": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "workspaces:Workspace-Layouts verwalten": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "1ba75780e02141f1",
+      "mtime": "2026-03-31T16:36:09+02:00"
+    }
+  },
+  "active": "Git"
+}
