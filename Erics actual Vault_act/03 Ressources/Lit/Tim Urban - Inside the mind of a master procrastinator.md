@@ -137,7 +137,6 @@ Now ... here's my brain.
 
 03:43
 
-# Instant Gratification Monkey
 There is a difference. Both brains have a Rational Decision-Maker in them, but the procrastinator's brain also has an Instant Gratification Monkey. Now, what does this mean for the procrastinator? Well, it means everything's fine until this happens.
 
 03:57
