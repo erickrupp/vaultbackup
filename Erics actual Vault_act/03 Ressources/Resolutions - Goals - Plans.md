@@ -35,7 +35,7 @@ ___
 - Klassische Ziele sind eher Meilensteine. Das erreichen ist nur Orientierung auf dem Weg.
 - Abweichen von Vorsätzen und Zielen ist OK und sogar erwünscht, solange das Licht des Leuchtturms in Sicht bleibt.
 ## Einleitung 
-Die folgende Idee ist einer Überlegung von Ryder Carol entnommen, der mit seiner Bullet Journal Methode, signifikanten Input in die Sphäre des Selbstmanagements gebracht hat. 
+Die folgende Idee ist einer Überlegung von Ryder Carol entnommen, der mit seiner Bullet-Journal Methode, signifikanten Input in die Sphäre des Selbstmanagements gebracht hat. 
 
 Es geht darum, dass die Begriffe: Vorsatz (Resolution), Ziel (Goal) und Plan oftmals synonym verwendet werden.
 

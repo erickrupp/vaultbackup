@@ -61,6 +61,7 @@ Hier muss deswegen ein Konzept her, das diesen Teufelskreis unterbricht und das 
 [[Neugier als System um schlechte Gewohnheiten zu besiegen]]
 [[Quote - Be Curious, not judgemental]]
 [[Journaling als Selbstmanagementmethode - [[MOC]]]]
+[[ADHS-Depressionsgefahr]]
 
 **LITERATURNOTIZ**
 
